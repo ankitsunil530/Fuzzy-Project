@@ -140,6 +140,11 @@ python fuzzy_diabetes.py
 > DOI: [10.3390/s21080895](https://doi.org/10.3390/s21080895)
 
 ---
+## 👥 Team Members
+- **Sunil Kumar** — Project Lead, Fuzzy Logic System Design & Implementation  
+- **Komal Singh** — Data Preprocessing, Evaluation & Documentation  
+- **Mayank Deshmukh** — Rule Base Development & Visualization
+
 
 ## 👨‍💻 Author
 
