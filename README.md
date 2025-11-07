@@ -1,7 +1,4 @@
-
 ---
-
-```markdown
 # 🩺 Fuzzy Logic-Based Diabetes Diagnosis System
 
 ## 📘 Overview  
@@ -153,3 +150,6 @@ python fuzzy_diabetes.py
 🔗 [GitHub Profile](https://github.com/ankitsunil530)
 
 ```
+
+
+
