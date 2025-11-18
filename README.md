@@ -145,7 +145,7 @@ python fuzzy_diabetes.py
 ## 👨‍💻 Author
 
 **Sunil Kumar**
-3rd Year B.Tech CSE @ IIITDM Jabalpur
+final Year B.Tech CSE @ IIITDM Jabalpur
 🔗 [GitHub Profile](https://github.com/ankitsunil530)
 
 ```
